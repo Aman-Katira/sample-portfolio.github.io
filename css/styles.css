@@ -512,25 +512,25 @@ img {
   display: block;
   background-color: var(--first-color);
 }
-.skills-container .skills-polymer {
-  width: 100%;
+.skills-container .skills-python {
+  width: 90%;
 }
-.skills-container .skills-experimental {
-  width: 100%;
-}
-.skills-container .skills-sustainable {
-  width: 100%;
+.skills-container .skills-C {
+  width: 90%;
 }
 .skills-container .skills-matlab {
+  width: 60%;
+}
+.skills-container .skills-ciao {
+  width: 90%;
+}
+.skills-container .skills-astrosat {
+  width: 90%;
+}
+.skills-container .skills-heasoft {
   width: 90%;
 }
 .skills-container .skills-latex {
-  width: 90%;
-}
-.skills-container .skills-adobe {
-  width: 90%;
-}
-.skills-container .skills-imagej {
   width: 90%;
 }
 .skills-container .skills-office {
