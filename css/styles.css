@@ -521,7 +521,7 @@ img {
 .skills-container .skills-matlab {
   width: 60%;
 }
-.skills-container .skills-ciao {
+.skills-container .skills-ciao_chandra {
   width: 90%;
 }
 .skills-container .skills-astrosat {
@@ -548,17 +548,8 @@ img {
 .skills-container .skills-hindi {
   width: 100%;
 }
-.skills-container .skills-catalan {
-  width: 100%;
-}
 .skills-container .skills-english {
   width: 85%;
-}
-.skills-container .skills-dutch {
-  width: 60%;
-}
-.skills-container .skills-japanese {
-  width: 40%;
 }
 
 /* Experience section */
